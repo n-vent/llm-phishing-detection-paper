@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use our work, please cite our conference paper as below."
+authors:
+  - family-names: "Nicklas"
+    given-names: "Fabian"
+  - family-names: "Ventulett"
+    given-names: "Nicolas"
+  - family-names: "Conrad"
+    given-names: "Jan"
+    name-suffix: "Prof. Dr.-Ing."
+title: "Enhancing Phishing Email Detection with Context-Augmented Open Large Language Models"
+license: CC-BY-NC-ND-4.0
+keywords:
+  - "Artificial Intelligence"
+  - "Cybersecurity"
+  - "Large Language Models"
+  - "AI"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Nicklas"
+    given-names: "Fabian"
+  - family-names: "Ventulett"
+    given-names: "Nicolas"
+  - family-names: "Conrad"
+    given-names: "Jan"
+    name-suffix: "Prof. Dr.-Ing."
+  name: "Proceedings of the Upper-Rhine Artificial Intelligence Symposium"
+  booktitle: "Proceedings of the Upper-Rhine Artificial Intelligence Symposium"
+  title: "Enhancing Phishing Email Detection with Context-Augmented Open Large Language Models"
+  year: 2024
