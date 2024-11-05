@@ -8,3 +8,16 @@ Phishing is a significant and increasing threat to cybersecurity. Attacks using 
 * Fabian Nicklas
 * Nicolas Ventulett
 * Prof. Dr.-Ing. Jan Conrad
+
+## Cite
+
+Nicklas, F., Ventulett, N., & Conrad, J. (2024). Enhancing Phishing Email Detection with Context-Augmented Open Large Language Models. In *Proceedings of the Upper-Rhine Artificial Intelligence Symposium*.
+
+```bibtex
+@InProceedings{phishing2024,
+  author    = {Nicklas, Fabian and Ventulett, Nicolas and Conrad, Jan},
+  booktitle = {Proceedings of the Upper-Rhine Artificial Intelligence Symposium},
+  title     = {Enhancing Phishing Email Detection with Context-Augmented Open Large Language Models},
+  year      = {2024},
+}
+```
