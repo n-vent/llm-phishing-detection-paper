@@ -25,7 +25,10 @@ Nicklas, F., Ventulett, N., & Conrad, J. (2024). Enhancing Phishing Email Detect
 ```
 
 ## License
+
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.  
 See [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
+
+![CC-BY-NC-ND-4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
 
 Copyright (c) 2024 Fabian Nicklas, Nicolas Ventulett, Prof. Dr.-Ing. Jan Conrad
