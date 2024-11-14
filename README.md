@@ -13,12 +13,12 @@ Keywords: *Artificial Intelligence, AI, Cybersecurity, Large Language Models*
 
 ## Cite
 
-Nicklas, F., Ventulett, N., & Conrad, J. (2024). Enhancing Phishing Email Detection with Context-Augmented Open Large Language Models. In *Proceedings of the Upper-Rhine Artificial Intelligence Symposium*.
+Nicklas, Fabian, Ventulett, Nicolas, & Conrad, Jan (2024). Enhancing Phishing Email Detection with Context-Augmented Open Large Language Models. In *Proceedings of the Upper-Rhine Artificial Intelligence Symposium 2024*.
 
 ```bibtex
-@InProceedings{phishing2024,
+@InProceedings{EnhancingPhishingEmailDetection2024,
   author    = {Nicklas, Fabian and Ventulett, Nicolas and Conrad, Jan},
-  booktitle = {Proceedings of the Upper-Rhine Artificial Intelligence Symposium},
+  booktitle = {Proceedings of the Upper-Rhine Artificial Intelligence Symposium 2024},
   title     = {Enhancing Phishing Email Detection with Context-Augmented Open Large Language Models},
   year      = {2024},
 }
